@@ -1,5 +1,9 @@
 console.log('Hola mundo!');
 
-console.log('Segundo mensaje');
+// Comentario de prueba
+// Otro comentario
 
-console.log('Tercer mensaje');
+/*
+Comentario
+de varias líneas REDUCIDO
+*/
