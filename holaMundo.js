@@ -1,5 +1,4 @@
 console.log('Hola mundo!');
 
-console.log('Segundo mensaje');
-
-console.log('Tercer mensaje');
+// Comentario de prueba
+// Otro comentario
