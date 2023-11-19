@@ -5,7 +5,5 @@ console.log('Hola mundo!');
 
 /*
 Comentario
-de 
-varias
-líneas
+de varias líneas REDUCIDO
 */
